@@ -1,0 +1,14 @@
+{
+  "name": "postcssviagulp",
+  "version": "1.0.0",
+  "description": "Basic demo of PostCSS use via Gulp",
+  "author": "Kezz Bracey",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^5.2.0",
+    "cssnext": "^1.8.2",
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^5.1.10",
+    "precss": "^0.3.0"
+  }
+}
